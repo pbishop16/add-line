@@ -1,0 +1,17 @@
+{
+  "name": "add-line",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "add-line": "node index.js"
+  },
+  "bin": {
+    "scope": "./index.js"
+  },
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "clear": "^0.1.0",
+    "commander": "^2.15.1"
+  }
+}
